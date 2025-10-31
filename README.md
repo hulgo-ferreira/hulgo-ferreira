@@ -3,7 +3,7 @@
 # Olá! Sou Hulgo Rafael!👋
 ## 👩‍💻 Analista de testes/QA
 
-Atuo na área de testes de software aproximadamente 5 anos e sou graduado em Banco de Dados. Tenho experiência com testes manuais e automatizados de web e API, já atuei em projetos com selenium e C# e alguns cursos realizados automatizando um sistema Web com Cypress e Robot Framework!
+Atuo na área de testes de software há mais de 5 anos e sou graduado em Banco de Dados. Tenho experiência com testes manuais e automatizados de web e API, já atuei em projetos com selenium e C# e alguns cursos realizados automatizando um sistema Web com Cypress e Robot Framework!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hulgo-r-ferreira-806604a8/)[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@hulgo.ferreira)
 
