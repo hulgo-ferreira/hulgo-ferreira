@@ -13,12 +13,12 @@ Tenho foco em construir estratégias de qualidade sólidas desde a concepção a
 
 | Categoria | Ferramentas |
 |-----------|------------|
-| Automação | Selenium, Cypress, Robot Framework |
-| Linguagens | Python, PHP, JavaScript |
-| CI/CD | Docker, Jenkins |
-| Banco de Dados | MongoDB, Oracle, PostgreSQL |
+| Automação | Selenium, Playwright, Cypress, Robot Framework |
+| Linguagens | Python, JavaScript |
+| CI/CD | Jenkins, Github Actions, GitLab |
+| Banco de Dados | MongoDB, SQL Server |
 | Metodologias | Scrum, BDD, Gherkin |
-| Gestão de Testes | Jira, TestRail |
+| Gestão de Testes | Jira, Azure DevOps |
 
 ## 💻 Tecnologias
 
