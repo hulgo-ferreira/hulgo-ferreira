@@ -17,7 +17,8 @@ Tenho foco em construir estratégias de qualidade sólidas desde a concepção a
 | Linguagens | Python, JavaScript |
 | CI/CD | Jenkins, Github Actions, GitLab |
 | Banco de Dados | MongoDB, SQL Server |
-| Metodologias | Scrum, BDD, Gherkin |
+| Metodologias | Scrum, BDD |
+| Linguagem de especificação | Gherkin | 
 | Gestão de Testes | Jira, Azure DevOps |
 
 ## 💻 Tecnologias
