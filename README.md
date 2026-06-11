@@ -17,11 +17,12 @@ Especialista em estratégias de testes, automação Front-end, validação de AP
 |-----------|------------|
 | Automação | Selenium, Playwright, Cypress, Robot Framework |
 | Linguagens | Python, JavaScript |
-| CI/CD | Jenkins, Github Actions, GitLab |
+| CI/CD | Jenkins, Github Actions |
 | Banco de Dados | MongoDB, SQL Server |
 | Metodologias | Scrum, BDD |
 | Especificação | Gherkin | 
 | Gestão de Testes | Jira, Azure DevOps |
+| Versionamento | GitLab, Github |
 
 ## 💻 Tecnologias
 
