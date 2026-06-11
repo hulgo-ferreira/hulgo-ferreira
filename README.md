@@ -1,11 +1,14 @@
 <img align="right" width="350" src="https://talkingabouttesting.files.wordpress.com/2015/01/tst-cloud.png"/>
 
 # Olá! Sou Hulgo Rafael!👋
-## 👩‍💻 Analista de testes/QA
+## 👩‍💻 QA Engineer | Test Automation | Quality Engineering
 
 Profissional de Qualidade de Software com quase **6 anos de experiência** em testes manuais e automatizados, atuando em projetos de alta complexidade nos setores **financeiro, análises clínicas, gás** e em ambientes ágeis (Scrum).
 
-Tenho foco em construir estratégias de qualidade sólidas desde a concepção até a entrega, garantindo cobertura de testes adequada e rastreabilidade de defeitos.
+Especialista em estratégias de testes, automação Front-end, validação de APIs e aplicação de Inteligência Artificial para otimização de processos de Quality Engineering.
+
+📍 PUC Minas
+🎓 Pós-graduação em Engenharia de Qualidade e Testes de Software (em andamento)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hulgo-r-ferreira-806604a8/)[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@hulgo.ferreira)
 
