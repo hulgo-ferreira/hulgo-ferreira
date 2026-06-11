@@ -39,8 +39,6 @@ Especialista em estratégias de testes, automação Front-end, validação de AP
 # language: pt
 # cypress/features/login.feature
 
-Os casos de teste são escritos em **Gherkin** seguindo o padrão BDD, cobrindo cenários **positivos e negativos**.
-
 Funcionalidade: Realizar login com sucesso no Swag Labs
   Como um usuário do site Swag Labs
   Quero realizar o meu login
