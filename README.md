@@ -72,7 +72,7 @@ Funcionalidade: Realizar login com sucesso no Swag Labs
 
 ```
 
-📎 [Ver Repositório](https://github.com/hulgo-ferreira/sistemaEcommerce)
+📎 [Ver Repositório]([https://github.com/hulgo-ferreira/sistemaEcommerce](https://github.com/hulgo-ferreira/swaglabs-cypress-automation))
 
 ## 📚 Publicações
 - Artigo sobre "Testes Manuais e Automatizados": 
