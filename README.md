@@ -44,9 +44,31 @@ Funcionalidade: Realizar login com sucesso no Swag Labs
   Quero realizar o meu login
   Para acessar o catálogo de produtos
 
-  Cenário: CT01 - Login com credenciais válidas (positivo)
+  Cenário01 - Login com credenciais válidas (positivo)
+    Dado que estou na página de login do Swag Labs
+    E possuo credenciais válidas cadastradas no sistema
+    Quando preencho o campo "Username" com "standard_user"
+    E preencho o campo "Password" com "secret_sauce"
+    E clico no botão "Login"
+    Então devo ser redirecionado para a página de produtos
+    E o título "Products" deve ser exibido
 
-  **Cenário: CT02: Login com usuário incorreto (negativo)**
+  Cenário02: Login com credenciais inválidas (negativo)
+    Dado que estou na página de login do Swag Labs
+    Quando preencho o campo "Username" com "<usuario>"
+    E preencho o campo "Password" com "<senha>"
+    E clico no botão "Login"
+    Então devo permanecer na página
+    E a mensagem de erro "<mensagem>" deve ser exibida
+
+    Exemplos:
+    | usuario           | senha         | mensagem                                                                       |
+    | usuario_invalido  | secret_sauce  | Epic sadface: Username and password do not match any user in this service      |
+    | standard_user     | senha_errada  | Epic sadface: Username and password do not match any user in this service      |
+    | usuario_invalido  | senha_errada  | Epic sadface: Username and password do not match any user in this service      |
+    | (vazio)           | secret_sauce  | Epic sadface: Username is required                                             |
+    | standard_user     | (vazio)       | Epic sadface: Username is required                                             |
+
 ```
 
 📎 [Ver Repositório](https://github.com/hulgo-ferreira/sistemaEcommerce)
