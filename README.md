@@ -1,17 +1,24 @@
 <img align="right" width="350" src="https://talkingabouttesting.files.wordpress.com/2015/01/tst-cloud.png"/>
 
-<h1 align="center">👋 Olá, eu sou Hulgo Rafael</h1>
-<h3 align="center">Analista QA Sênior | Automação de Testes | Qualidade de Software</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hulgo-r-ferreira-806604a8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://desenvolvimento.shift.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-</p>
+# Olá! Sou Hulgo Rafael!👋
+## 👩‍💻 Analista de testes/QA
+
+Profissional de Qualidade de Software com quase **6 anos de experiência** em testes manuais e automatizados, atuando em projetos de alta complexidade nos setores **financeiro, análises clínicas, gás** e em ambientes ágeis (Scrum).
+
+Tenho foco em construir estratégias de qualidade sólidas desde a concepção até a entrega, garantindo cobertura de testes adequada e rastreabilidade de defeitos.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hulgo-r-ferreira-806604a8/)[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@hulgo.ferreira)
+
+## 🛠️ Stack de Tecnologias
+
+| Categoria | Ferramentas |
+|-----------|------------|
+| Automação | Selenium, Cypress, Robot Framework |
+| Linguagens | Python, PHP, JavaScript |
+| CI/CD | Docker, Jenkins |
+| Banco de Dados | MongoDB, Oracle, PostgreSQL |
+| Metodologias | Scrum, BDD, Gherkin |
+| Gestão de Testes | Jira, TestRail |
 
 ## 💻 Tecnologias
 
