@@ -31,9 +31,13 @@ Especialista em estratégias de testes, automação Front-end, validação de AP
 
 > Automação de testes E2E do site [Swag Labs](https://www.saucedemo.com/) com Cypress
 
-**Stack:** Cypress · JavaScript · Gherkin · Cucumber
+**Stack:** Cypress · JavaScript
 
 ### ✅ Casos de Teste (BDD/Gherkin)
+
+```gherkin
+# language: pt
+# cypress/features/login.feature
 
 Os casos de teste são escritos em **Gherkin** seguindo o padrão BDD, cobrindo cenários **positivos e negativos**.
 
@@ -45,6 +49,7 @@ Funcionalidade: Realizar login com sucesso no Swag Labs
   Cenário: CT01 - Login com credenciais válidas (positivo)
 
   **Cenário: CT02: Login com usuário incorreto (negativo)**
+```
 
 📎 [Ver Repositório](https://github.com/hulgo-ferreira/sistemaEcommerce)
 
