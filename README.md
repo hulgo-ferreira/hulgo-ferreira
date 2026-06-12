@@ -108,9 +108,10 @@ O relatório é gerado automaticamente após cada build e publicado via GitHub P
 
 📎 [Acessar último relatório →](https://hulgo-ferreira.github.io/swaglabs-cypress-automation/)
 
-![Allure Report Preview](./docs/allure-preview.png) <!-- adicione um screenshot aqui -->
+![Allure Report Preview](<img width="1678" height="882" alt="image" src="https://github.com/user-attachments/assets/533252f7-77de-46cb-b5f5-439885c95dbb" />
+) <!-- adicione um screenshot aqui -->
 
-## 🏗️ Arquitetura do Projeto
+## ✅ Arquitetura do Projeto
 
 <img width="323" height="576" alt="image" src="https://github.com/user-attachments/assets/6fed92cd-f614-4ef0-ab13-271c3593b119" />
 
