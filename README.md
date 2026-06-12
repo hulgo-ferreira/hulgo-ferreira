@@ -107,9 +107,12 @@ A cada `push` ou `pull request`, a pipeline executa automaticamente:
 O relatório é gerado automaticamente após cada build e publicado via GitHub Pages.
 
 📎 [Acessar último relatório →](https://hulgo-ferreira.github.io/swaglabs-cypress-automation/)
-
-![Allure Report Preview](<img width="1678" height="882" alt="image" src="https://github.com/user-attachments/assets/533252f7-77de-46cb-b5f5-439885c95dbb" />
-) <!-- adicione um screenshot aqui -->
+<table>
+  <tr>
+    <td><img width="100%" alt="Allure Overview" src="https://github.com/user-attachments/assets/27838fa8-25b6-4a26-9584-379203946700" /></td>
+    <td><img width="100%" alt="Allure Details" src="https://github.com/user-attachments/assets/d9379a80-722c-4083-92ef-0a7687273260" /></td>
+  </tr>
+</table>
 
 ## ✅ Arquitetura do Projeto
 
