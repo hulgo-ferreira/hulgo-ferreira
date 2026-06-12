@@ -79,7 +79,7 @@ Funcionalidade: Realizar login com sucesso no Swag Labs
 ```
 ## 🤖 Arquitetura da Automação (Cypress)
 
-A arquitetura de automação implementada utiliza Custom Commands no Cypress para centralizar interações repetitivas, como logins, no arquivo *support/commands.js*, abstraindo ações para manter os testes limpos e reutilizáveis.
+A arquitetura de automação implementada utiliza Custom Commands no Cypress para centralizar interações repetitivas, como logins, no arquivo **support/commands.js**, abstraindo ações para manter os testes limpos e reutilizáveis.
 
 📎 [Ver Repositório](https://github.com/hulgo-ferreira/swaglabs-cypress-automation)
 
