@@ -28,7 +28,7 @@ Especialista em estratégias de testes, automação Front-end, validação de AP
 
 <p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/pt/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 
-# ✅ Projeto de Automação de Testes: Swag Labs Login
+## ✅ Automação de Testes E2E do site [Swag Labs](https://www.saucedemo.com/) com Cypress - Funcionalidade Login
 
 Este projeto demonstra a aplicação de boas práticas de Engenharia de Qualidade de Software (QA) na validação do fluxo de autenticação da plataforma Swag Labs. O objetivo principal é demonstrar maturidade no mapeamento de cenários de negócios, escrita de testes em formato BDD (Behavior-Driven Development) e automação robusta.
 
@@ -37,8 +37,6 @@ Este projeto demonstra a aplicação de boas práticas de Engenharia de Qualidad
 Para garantir a cobertura eficiente do formulário de login sem criar testes redundantes, utilizei a técnica de **Partição de Equivalência** e **Análise de Valor Limite**. 
 
 Ao invés de testar múltiplos inputs inválidos com valores aleatórios, o comportamento do sistema foi dividido em classes de equivalência (Válido, Inválido e Vazio), reduzindo o custo de manutenção do código e mantendo a eficácia dos testes.
-
-> Automação de testes E2E do site [Swag Labs](https://www.saucedemo.com/) com Cypress
 
 **Stack:** Cypress · JavaScript
 
