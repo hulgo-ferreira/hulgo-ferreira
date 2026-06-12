@@ -100,7 +100,7 @@ A cada `push` ou `pull request`, a pipeline executa automaticamente:
 3. 📊 Geração automática do relatório Allure
 4. 🚀 Publicação do relatório via GitHub Pages
 
-> O relatório Allure pode ser acessado em: [link do GitHub Pages aqui]
+> O relatório Allure pode ser acessado em: [https://hulgo-ferreira.github.io/swaglabs-cypress-automation/]
 
 ## 📊 Relatório de Execução (Allure) integrado ao Github
 
