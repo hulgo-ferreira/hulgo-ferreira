@@ -77,11 +77,11 @@ A cobertura do fluxo de login foi planejada com base em duas técnicas:
 - **Partição de Equivalência** — agrupamento de inputs em classes válidas, inválidas e vazias, evitando testes redundantes
 - **Análise de Valor Limite** — validação nas fronteiras de cada classe, onde bugs tendem a se concentrar
 
-> 💡 Resultado: 4 cenários cobrem toda a superfície de risco do formulário, sem duplicação de esforço.
+> 💡 Resultado: 5 cenários cobrem toda a superfície de risco do formulário, sem duplicação de esforço.
 
 **Stack:** Cypress · JavaScript
 
-<img width="1303" height="741" alt="image" src="https://github.com/user-attachments/assets/e97f54ae-638a-48e8-b25c-20b563c94401" />
+<img width="1301" height="929" alt="image" src="https://github.com/user-attachments/assets/19ea968a-cc4c-4eb7-aa4d-997114474a1a" />
 
 ## 🤖 Arquitetura da Automação (Cypress)
 
