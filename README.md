@@ -32,14 +32,6 @@ Especialista em estratégias de testes, automação Front-end, validação de AP
 
 Este projeto demonstra a aplicação de boas práticas de Engenharia de Qualidade de Software (QA) na validação do fluxo de autenticação da plataforma Swag Labs. O objetivo principal é demonstrar maturidade no mapeamento de cenários de negócios, escrita de testes em formato BDD (Behavior-Driven Development) e automação robusta.
 
-## ✅ Engenharia de Testes & Estratégia de Mapeamento
-
-Para garantir a cobertura eficiente do formulário de login sem criar testes redundantes, utilizei a técnica de **Partição de Equivalência** e **Análise de Valor Limite**. 
-
-Ao invés de testar múltiplos inputs inválidos com valores aleatórios, o comportamento do sistema foi dividido em classes de equivalência (Válido, Inválido e Vazio), reduzindo o custo de manutenção do código e mantendo a eficácia dos testes.
-
-**Stack:** Cypress · JavaScript
-
 ### ✅ Casos de Teste (BDD/Gherkin)
 
 ```gherkin
@@ -77,12 +69,50 @@ Funcionalidade: Realizar login com sucesso no Swag Labs
     | standard_user     | (vazio)       | Epic sadface: Username is required                                             |
 
 ```
+
+## ✅ Estratégia de Testes
+
+A cobertura do fluxo de login foi planejada com base em duas técnicas:
+
+- **Partição de Equivalência** — agrupamento de inputs em classes válidas, inválidas e vazias, evitando testes redundantes
+- **Análise de Valor Limite** — validação nas fronteiras de cada classe, onde bugs tendem a se concentrar
+
+> 💡 Resultado: 4 cenários cobrem toda a superfície de risco do formulário, sem duplicação de esforço.
+
+**Stack:** Cypress · JavaScript
+
+<img width="1303" height="741" alt="image" src="https://github.com/user-attachments/assets/e97f54ae-638a-48e8-b25c-20b563c94401" />
+
 ## 🤖 Arquitetura da Automação (Cypress)
 
 A arquitetura de automação implementada utiliza Custom Commands no Cypress para centralizar interações repetitivas, como logins, no arquivo **support/commands.js**, abstraindo ações para manter os testes limpos e reutilizáveis.
 
 📎 [Ver Repositório](https://github.com/hulgo-ferreira/swaglabs-cypress-automation)
 
+## ✅ Pipeline CI/CD — GitHub Actions
+
+[![CI](https://github.com/hulgo-ferreira/swaglabs-cypress-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/hulgo-ferreira/swaglabs-cypress-automation/actions)
+
+A cada `push` ou `pull request`, a pipeline executa automaticamente:
+
+1. 🔧 Instalação das dependências (`npm ci`)
+2. 🧪 Execução dos testes E2E com Cypress (modo headless)
+3. 📊 Geração automática do relatório Allure
+4. 🚀 Publicação do relatório via GitHub Pages
+
+> O relatório Allure pode ser acessado em: [link do GitHub Pages aqui]
+
+## 📊 Relatório de Execução (Allure) integrado ao Github
+
+O relatório é gerado automaticamente após cada build e publicado via GitHub Pages.
+
+📎 [Acessar último relatório →](https://hulgo-ferreira.github.io/swaglabs-cypress-automation/)
+
+![Allure Report Preview](./docs/allure-preview.png) <!-- adicione um screenshot aqui -->
+
+## 🏗️ Arquitetura do Projeto
+
+<img width="323" height="576" alt="image" src="https://github.com/user-attachments/assets/6fed92cd-f614-4ef0-ab13-271c3593b119" />
 
 ## 📚 Publicações
 - Artigo sobre "Testes Manuais e Automatizados": 
