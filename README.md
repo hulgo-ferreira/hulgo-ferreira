@@ -91,7 +91,7 @@ A arquitetura de automação implementada utiliza Custom Commands no Cypress par
 
 ## ✅ Pipeline CI/CD — GitHub Actions
 
-[![CI](https://github.com/hulgo-ferreira/swaglabs-cypress-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/hulgo-ferreira/swaglabs-cypress-automation/actions)
+[![CI](https://github.com/hulgo-ferreira/swaglabs-cypress-automation/actions/workflows/cypress-allure.yml/badge.svg)](https://github.com/hulgo-ferreira/swaglabs-cypress-automation/actions)
 
 A cada `push` ou `pull request`, a pipeline executa automaticamente:
 
